@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarinaKashcheeva
+- 👀 I’m interested in DataScience
+- 💞️ I’m looking to collaborate on DS projects
+- 📫 How to reach me: marina.kashcheeva@gmail.com
