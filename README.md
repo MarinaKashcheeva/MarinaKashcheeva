@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MarinaKashcheeva
-- 👀 I’m interested in DataScience
-- 💞️ I’m looking to collaborate on DS projects
-- 📫 How to reach me: marina.kashcheeva@gmail.com
+- Hello, my name is Marina Kashcheeva.
+- I'm a data scientist with 15 years of marketing background. 
+- I’m looking to collaborate on DS projects. 
+- My skills in data science along with my expertise in marketing let me develop data-driven solutions for difficult business challenges.
+- Feel free to reach me: marina.kashcheeva@gmail.com, [LinkedIn](https://www.linkedin.com/in/marinakashcheeva/), [Telegram](https://t.me/esta_noche/).
